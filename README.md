@@ -95,7 +95,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/salmenz/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/salmenz/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/salmenz/Bank_prediction" title="Bank_prediction"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=Bank_prediction&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/salmenz/JobWin" title="JobWin"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=JobWin&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
@@ -104,15 +104,10 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/salmenz/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/salmenz/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/salmenz/holbertonschool-machine_learning" title="holbertonschool-machine_learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=holbertonschool-machine_learning&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/salmenz/holbertonschool-higher_level_programming " title="holbertonschool-higher_level_programming "><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=holbertonschool-higher_level_programming &theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/salmenz/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/salmenz/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/salmenz?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
