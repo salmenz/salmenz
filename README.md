@@ -8,10 +8,9 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="https://github.com/salmenz/salmenz/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/salmenz/salmenz/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/salmenz/salmenz/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/salmenz/salmenz/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/salmen-zouari/" title="LinkedIn Profile"><img width="22" src="https://github.com/salmenz/salmenz/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/" title="HackerRank Profile"><img width="22" src="https://github.com/salmenz/salmenz/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.instagram.com/salmenzouari/" title="Instagram Profile"><img width="22" src="https://github.com/salmenz/salmenz/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -96,11 +95,6 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/salmenz/Bank_prediction" title="Bank_prediction"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=Bank_prediction&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/salmenz/JobWin" title="JobWin"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=JobWin&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/salmenz/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/salmenz/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmenz&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
